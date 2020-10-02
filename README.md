@@ -1,4 +1,4 @@
-# GSS utils
+# GSS utilities
 
 Shared data transformation utilities for GSS data.
 
